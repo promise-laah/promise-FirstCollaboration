@@ -2,3 +2,5 @@
 2. Full-Name (Specialization)
 3. Rahmatullah Ishaq (pen tester)
 4. Usama Taheer Maheer (AI & Cyber Risk Engineer)
+5. Abdulmumin Sadiq (AI Developer) 
+6. Agoro Bilikisu (Web Developer)
